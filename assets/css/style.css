@@ -1,0 +1,44 @@
+.crystal{
+    border: 2px solid yellow;
+    height: 200px;
+    width: 200px;
+
+}
+
+.crystals{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 8%;
+
+}
+h2{
+    color: red;
+}
+body{
+    font-size: large;
+    background-color: black;
+    color: white;
+}
+.container {
+    padding-top: 5%;
+    padding-bottom: 2%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 38%;
+}
+
+.col-sm-12{
+    border: dotted 5px purple;
+    margin-right: 5%;
+    border-radius: 30px;
+    text-align: center;
+}
+
+.col-md-12{
+    border: dotted 5px blue;
+    margin-right: 5%;
+    border-radius: 30px;
+    text-align: center;
+}
